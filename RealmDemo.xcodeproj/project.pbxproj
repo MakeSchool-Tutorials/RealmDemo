@@ -45,7 +45,7 @@
 		2EA083DF1C23C0A70068A338 /* Realm.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Realm.framework; sourceTree = "<group>"; };
 		2EA083E01C23C0A70068A338 /* RealmSwift.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = RealmSwift.framework; sourceTree = "<group>"; };
 		2EA083E31C23C3BB0068A338 /* Person.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
-		2EDD6E411C2499100005DA42 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = RealmDemo/README.md; sourceTree = "<group>"; };
+		2EDD6E431C24AB620005DA42 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,7 +64,7 @@
 		2EA083C01C23C0570068A338 = {
 			isa = PBXGroup;
 			children = (
-				2EDD6E411C2499100005DA42 /* README.md */,
+				2EDD6E431C24AB620005DA42 /* README.md */,
 				2EA083DE1C23C0A70068A338 /* Frameworks */,
 				2EA083CB1C23C0570068A338 /* RealmDemo */,
 				2EA083CA1C23C0570068A338 /* Products */,
